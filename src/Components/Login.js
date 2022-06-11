@@ -7,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import UserDetail from "./UserDetail";
 import { BrowserRouter as Router,Routes,Route,Link, useNavigate } from "react-router-dom";
 
-const api = "https://react-admin-functionality.herokuapp.com/Users";
+const api = "http://localhost:5500/Users";
 
 export default function Login(){
     const [userSession,setUserSession] = useState({

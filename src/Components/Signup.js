@@ -8,7 +8,7 @@ import axios from "axios";
 import '../App.css';
 //import Login from "./Login";
 import {BrowserRouter as Router,Routes, Route} from "react-router-dom";
-const api = "https://react-admin-functionality.herokuapp.com/Users";
+const api = "http://localhost:5500/Users";
 
 function Signup() {
   const[data, getData] = useState([]);
