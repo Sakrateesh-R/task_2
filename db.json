@@ -1,0 +1,92 @@
+{
+  "Users": [
+    {
+      "FirstName": "Sakrateesh",
+      "LastName": "R",
+      "Username": "Saka_Saku",
+      "Password": "Saka@123",
+      "Age": 18,
+      "Role": "Full-Stack Developer",
+      "Address": "77, kovaipudur Coimbatore-42",
+      "Phone": "8569741230",
+      "id": 1
+    },
+    {
+      "FirstName": "Test",
+      "LastName": "User",
+      "Username": "Test_User",
+      "Password": "Test@123",
+      "Age": "21",
+      "Role": "Testing Engineer",
+      "Address": "Demo Address for Testing",
+      "Phone": "9874561230",
+      "id": 2
+    },
+    {
+      "FirstName": "Admin",
+      "LastName": "User",
+      "Username": "Admin_User",
+      "Password": "admin@123",
+      "Age": "21",
+      "Role": "Admin",
+      "Address": "U-99A",
+      "Phone": "1234567890",
+      "id": 3
+    },
+    {
+      "FirstName": "Santhosh",
+      "LastName": "R",
+      "Username": "Sandy",
+      "Password": "Sandy!7777",
+      "Age": "25",
+      "Role": "User",
+      "Address": "NA",
+      "Phone": "9500350317",
+      "id": 4
+    },
+    {
+      "FirstName": "Test",
+      "LastName": "User1",
+      "Username": "Test_User1",
+      "Password": "Test_User1",
+      "Age": "21",
+      "Role": "Engineer",
+      "Address": "U-99A",
+      "Phone": "1234567890",
+      "id": 5
+    },
+    {
+      "FirstName": "Saka",
+      "LastName": "R",
+      "Username": "saka",
+      "Password": "saka123",
+      "Age": "21",
+      "Role": "Front-end Developer",
+      "Address": "77,kovaigarden",
+      "Phone": "8974561230",
+      "id": 6
+    },
+    {
+      "FirstName": "Test",
+      "LastName": "User2",
+      "Username": "Test_User2",
+      "Password": "Test@123",
+      "Age": "21",
+      "Role": "Testing",
+      "Address": "address",
+      "Phone": "7894561224",
+      "id": 7
+    },
+    {
+      "FirstName": "Test",
+      "LastName": "User3",
+      "Username": "Test_User3",
+      "Password": "Test@123",
+      "Age": "12",
+      "Role": "demo",
+      "Address": "demo address",
+      "Phone": "1236547890",
+      "id": 8
+    }
+  ]
+}
