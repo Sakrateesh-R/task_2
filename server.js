@@ -16,5 +16,5 @@ server.use(
 server.use(router);
 server.use(cors());
 server.listen(PORT,() =>{
-    console.log("server is live at PORT", PORT);
+    console.log("server is live at PORT");
 })
